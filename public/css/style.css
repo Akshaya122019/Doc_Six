@@ -2305,9 +2305,7 @@ h5,
 }
 
 @media (max-width: 991.98px) {
-    .top-wrap .con {
-        display: none !important;
-    }
+    
 
     #get-assistance-container {
         padding-inline-start: calc(var(--spacing) * 0);
@@ -7212,4 +7210,161 @@ h6[id] {
 
 .form-trust-badges i {
     color: #00a0b3;
+}
+
+
+
+
+
+
+/* =====================================================
+   MOBILE ONE-LINE HEADER  (logo | phone | menu)
+   ===================================================== */
+
+/* hidden on desktop */
+.mobile-topbar,
+.mobile-assist-item {
+    display: none;
+}
+
+@media (max-width: 991.98px) {
+
+    /* ---------- fixed white top bar ---------- */
+    .top-wrap {
+        position: fixed !important;
+        top: 0;
+        left: 0;
+        right: 0;
+        padding: 0 !important;
+        background: #ffffff !important;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+        z-index: 1100;
+    }
+
+    /* hide desktop top row (email, social, big phone) */
+    .top-wrap .desktop-topbar {
+        display: none !important;
+    }
+
+    /* ---------- the one-line bar ---------- */
+    .mobile-topbar {
+        display: grid;
+        grid-template-columns: 1fr auto 1fr;
+        align-items: center;
+        height: 62px;
+        padding: 0 12px;
+    }
+
+    .mobile-logo {
+        justify-self: start;
+        display: flex;
+        align-items: center;
+    }
+
+    .mobile-logo img {
+        display: block;
+        height: 40px;
+        width: auto;
+    }
+
+    .mobile-call {
+        justify-self: center;
+        white-space: nowrap;
+        font-size: 14px;
+        font-weight: 700;
+        color: #00a0b3;
+        line-height: 1;
+    }
+
+    .mobile-call i {
+        margin-right: 4px;
+        font-size: 13px;
+    }
+
+    .mobile-menu-btn {
+        justify-self: end;
+        width: 40px;
+        height: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #00a0b3;
+        color: #ffffff;
+        border: none;
+        border-radius: 8px;
+        font-size: 18px;
+        padding: 0;
+    }
+
+    /* ---------- nav: only shows the dropdown panel ---------- */
+    .ftco-navbar-light,
+    .custom-navbar,
+    .custom-navbar.is-stuck {
+        position: fixed !important;
+        top: 62px !important;
+        left: 0;
+        right: 0;
+        padding: 0 !important;
+        background: transparent !important;
+        box-shadow: none !important;
+        z-index: 1090;
+    }
+
+    /* hide old toggler + desktop Get Assistance button */
+    .ftco-navbar-light .navbar-toggler,
+    .ftco-navbar-light .btn-custom {
+        display: none !important;
+    }
+
+    /* menu dropdown panel */
+    .ftco-navbar-light .navbar-collapse.show,
+    .ftco-navbar-light .navbar-collapse.collapsing {
+        background: #ffffff;
+        padding: 0 14px;
+        max-height: calc(100vh - 62px);
+        overflow-y: auto;
+        box-shadow: 0 10px 18px rgba(0, 0, 0, 0.12);
+    }
+
+    .ftco-navbar-light .navbar-nav {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
+        padding: 12px 6px;
+        border-bottom: 1px solid #f0f0f0;
+        color: #00a0b3 !important;
+    }
+
+    /* Get Assistance inside the menu */
+    .mobile-assist-item {
+        display: block;
+        margin-top: 8px;
+    }
+
+    .mobile-assist-item .nav-link {
+        background: #00a0b3;
+        color: #ffffff !important;
+        text-align: center;
+        border-radius: 6px;
+        font-weight: 700;
+        border-bottom: none !important;
+    }
+
+    /* push page content below the fixed bar */
+    body {
+        padding-top: 0;
+    }
+}
+
+/* very small phones */
+@media (max-width: 360px) {
+    .mobile-call {
+        font-size: 12px;
+    }
+
+    .mobile-logo img {
+        height: 34px;
+    }
 }

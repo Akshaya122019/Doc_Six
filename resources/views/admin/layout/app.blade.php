@@ -19,6 +19,43 @@
    <!-- Bootstrap Bundle JS -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
 <script>
+document.addEventListener('DOMContentLoaded', function () {
+
+    /* ---------- sticky nav on desktop ---------- */
+    var trigger = document.getElementById('nav-trigger');
+    var nav = document.querySelector('.custom-navbar');
+
+    if (trigger && nav && 'IntersectionObserver' in window) {
+        new IntersectionObserver(function (entries) {
+            nav.classList.toggle('is-stuck', !entries[0].isIntersecting);
+        }).observe(trigger);
+    }
+
+    /* ---------- mobile: tap to open submenus ---------- */
+    document.querySelectorAll('.toggle-submenu').forEach(function (el) {
+        el.addEventListener('click', function (e) {
+            if (window.innerWidth < 992) {
+                e.preventDefault();
+                e.stopPropagation();
+                var submenu = this.nextElementSibling;
+                if (submenu) submenu.classList.toggle('show');
+            }
+        });
+    });
+
+    /* ---------- close menu after tapping a real link ---------- */
+    document.querySelectorAll('#navbarSupportedContent a.dropdown-item[href]:not([href="#"]), #navbarSupportedContent a.nav-link[href]:not([href="#"])')
+        .forEach(function (link) {
+            link.addEventListener('click', function () {
+                var menu = document.getElementById('navbarSupportedContent');
+                if (window.innerWidth < 992 && menu.classList.contains('show')) {
+                    bootstrap.Collapse.getOrCreateInstance(menu).hide();
+                }
+            });
+        });
+});
+</script>
+<script>
     document.querySelectorAll('[data-bs-toggle="tooltip"]').forEach(function (el) {
         new bootstrap.Tooltip(el);
     });
