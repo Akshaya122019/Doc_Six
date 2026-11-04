@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     @stack('meta-tags')
     <title>Phd Assistants</title>
-    <link rel="icon" href="{{ asset('images/icon/4.png') }}" type="image/png">
+    <link rel="icon" href="{{ asset('images/icon/docsix_logo.png') }}" type="image/png">
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 

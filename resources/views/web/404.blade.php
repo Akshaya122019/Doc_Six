@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <link rel="icon" href="assets/images/4.png" type="image/gif" sizes="20x20">
+  <link rel="icon" href="assets/images/docsix_logo.png" type="image/gif" sizes="20x20">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>404 Page Not Found</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">

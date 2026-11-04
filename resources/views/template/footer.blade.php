@@ -6,7 +6,7 @@
       <div class="col-md-6 col-lg-4">
         <div class="ftco-footer-widget mb-4">
           <h2 class="ftco-heading-2 logo d-flex flex-column">
-            <img src="{{asset('images/4.png')}}" alt="logo" height="75" width="100" class="mb-3">
+            <img src="{{asset('images/docsix_logo.png')}}" alt="logo" height="75" width="100" class="mb-3">
             
           </h2>
           <p class="text-dark">
@@ -15,16 +15,16 @@
           </p>
           <ul class="ftco-footer-social list-unstyled d-flex mt-3">
             <li class="me-3 d-flex justify-content-center align-items-center">
-              <a target="_blank" href="#"><i class="fab fa-facebook"></i></a>
+              <a target="_blank" href="https://www.facebook.com/share/19gVojfxFh/"><i class="fab fa-facebook"></i></a>
             </li>
             <li class="me-3 d-flex justify-content-center align-items-center">
-              <a target="_blank" href="#"><i class="fab fa-x-twitter"></i></a>
+              <a target="_blank" href="https://x.com/PhDGuiden"><i class="fab fa-x-twitter"></i></a>
             </li>
             <li class="me-3 d-flex justify-content-center align-items-center">
               <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
             </li>
             <li class="me-3 d-flex justify-content-center align-items-center">
-              <a target="_blank" href="#"><i class="fab fa-instagram"></i></a>
+              <a target="_blank" href="https://www.instagram.com/docsixphdassistance?utm_source=qr&exln=ZW43dW1sYnA5YjRt"><i class="fab fa-instagram"></i></a>
             </li>
           </ul>
         </div>
