@@ -328,7 +328,7 @@
     </div>
     <div class="row">
       <div class="text-center">
-        <a href="mailto:support@docsix.com" target="_blank" class="glass-wa-btn me-2 mb-2">
+        <a href="mailto:support@doc-six.com" target="_blank" class="glass-wa-btn me-2 mb-2">
           <i class="fas fa-envelope"></i> Get a quote
         </a>
         <a href="https://wa.me/919500020252" target="_blank" class="glass-wa-btn">

@@ -39,6 +39,15 @@
         })(window,document,'script','dataLayer','GTM-KFX3CGVS');
     </script>
     <!-- End Google Tag Manager -->
+     <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-18545391026"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-18545391026');
+</script>
 
 </head>
 

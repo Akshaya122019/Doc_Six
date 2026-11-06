@@ -492,7 +492,7 @@
                 Our MATLAB & Simulink solution is crafted to take your research to the next level. We work through every line of code to the last output, ensuring each step meets your academic level and research goals.
               </p>                                           
               <div class="text-center mt-4 mb-3">
-                <a href="mailto:support@docsix.com" class="btn btn-primary btn-outline-primary px-5 fw-bold">Share Your Topic</a>
+                <a href="mailto:support@doc-six.com" class="btn btn-primary btn-outline-primary px-5 fw-bold">Share Your Topic</a>
               </div>                     
             </div>
         </div>         

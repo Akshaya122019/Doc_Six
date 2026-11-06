@@ -71,7 +71,7 @@ Tamil Nadu 629165
 
 </span></li>
             <li><a href="tel:9500020252"><i class="fas fa-phone me-2"></i> +91 - 9500020252</a></li>
-            <li><a href="mailto:support@docsix.com"><i class="fas fa-paper-plane me-2"></i> support@docsix.com</a></li>
+            <li><a href="mailto:support@doc-six.com"><i class="fas fa-paper-plane me-2"></i> support@doc-six.com</a></li>
           </ul>
         </div>
       </div>

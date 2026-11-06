@@ -284,7 +284,7 @@
                 <li class="list-group-item"><strong>Online UK Pre-Submission Review</strong> Before submission, we thoroughly review your dissertation’s structure, formatting, and clarity, ensuring it meets UK university standards and is fully polished for evaluation.</li>
               </ul>
               <div class="text-center mt-4">
-                <a href="mailto:support@docsix.com" target="_blank" class="glass-wa-btn me-2">
+                <a href="mailto:support@doc-six.com" target="_blank" class="glass-wa-btn me-2">
                   Email Query <i class="ms-2 fas fa-paper-plane"></i>
                 </a>
               </div>

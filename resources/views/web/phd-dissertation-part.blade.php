@@ -565,7 +565,7 @@
               <h2 class="conclusion-heading">Get Expert Help for Any Dissertation Chapter</h2>
               <p class="conclusion-text highlight text-center">Facing challenges in specific sections like methodology, literature review, or data analysis? Our chapter-specific service offers tailored support that meets your research goals and institutional guidelines.</p>                                           
               <div class="text-center mt-4 mb-3">
-                <a href="mailto:support@docsix.com" class="btn btn-primary btn-outline-primary px-5 fw-bold">Share Your Chapter Requirements</a>
+                <a href="mailto:support@doc-six.com" class="btn btn-primary btn-outline-primary px-5 fw-bold">Share Your Chapter Requirements</a>
               </div>                     
             </div>
         </div>         

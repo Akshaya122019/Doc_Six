@@ -463,7 +463,7 @@
                 Working on protocol design, routing optimization, or wireless communication systems,our NS2 / NS3 experts will assist you in achieving success. Let's turn your academic imagination into reality with trustworthy simulation, validation, and reporting.
               </p>                                           
               <div class="text-center mt-4 mb-3">
-                <a href="mailto:support@docsix.com" class="btn btn-primary btn-outline-primary px-5 fw-bold">Share Your Topic</a>
+                <a href="mailto:support@doc-six.com" class="btn btn-primary btn-outline-primary px-5 fw-bold">Share Your Topic</a>
               </div>                     
             </div>
         </div>         

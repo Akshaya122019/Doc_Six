@@ -526,7 +526,7 @@
             <a href="tel:9500020252" class="btn btn-primary btn-outline-primary px-5 fw-bold">Request a Free Assessment</a>
           </div>
           <div class="d-flex flex-column">
-            <h4 class="text-center mb-3">Email : <a href="mailto:support@docsix.com">support@docsix.com</a></h4>
+            <h4 class="text-center mb-3">Email : <a href="mailto:support@doc-six.com">support@doc-six.com</a></h4>
             <h4 class="text-center mb-3">Call/WhatsApp : <a href="https://wa.me/919500020252?text=Hello%20there!">Live Chat Available</a></h4>
           </div>
 

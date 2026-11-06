@@ -297,7 +297,7 @@
                 Turn your research idea into a submission-ready synopsis, structured, original, and tailored to your university’s guidelines.
               </p>             
               <div class="text-center mt-4">
-                <a href="mailto:support@docsix.com" class="btn btn-primary btn-outline-primary px-5 fw-bold">Chat with Our Team</a>
+                <a href="mailto:support@doc-six.com" class="btn btn-primary btn-outline-primary px-5 fw-bold">Chat with Our Team</a>
               </div>                     
             </div>
         </div>

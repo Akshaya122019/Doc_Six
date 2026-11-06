@@ -115,7 +115,7 @@ class FormController extends Controller
             return is_string($value) ? $value : ($value ?? '');
         }, $formData);
 
-        Mail::to('support@docsix.com')->send(new FormSubmittedMail($formData, $attachments));
+        Mail::to('support@doc-six.com')->send(new FormSubmittedMail($formData, $attachments));
         return redirect()->back()->with('success', 'Form submitted successfully');
     } catch (\Exception $e) {
         \Log::error('Form submission failed: ' . $e->getMessage());

@@ -32,7 +32,7 @@
                     <div class="icon"><i class="fa fa-envelope"></i></div>
                     <div class="text">
                         <span>Mail Us</span>
-                        <strong><a href="mailto:support@docsix.com">support@docsix.com</a></strong>
+                        <strong><a href="mailto:support@doc-six.com">support@doc-six.com</a></strong>
                     </div>
                 </div>
             </div>

@@ -753,7 +753,7 @@
           </div>
           <div class="d-flex flex-column">
             <h4 class="text-center mb-3">Contact Us: <a href="tel:9500020252">+91 9500020252</a></h4>
-            <h4 class="text-center mb-3">Email: <a href="mailto:support@docsix.com">support@docsix.com</a></h4>
+            <h4 class="text-center mb-3">Email: <a href="mailto:support@doc-six.com">support@doc-six.com</a></h4>
           </div>
         </div>
       </div>

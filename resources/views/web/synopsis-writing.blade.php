@@ -553,7 +553,7 @@
           </p>
 
           <div class="text-center mt-4">
-            <a href="mailto:support@docsix.com" class="btn btn-primary btn-outline-primary px-5 mx-2 fw-bold">Get Email support</a>
+            <a href="mailto:support@doc-six.com" class="btn btn-primary btn-outline-primary px-5 mx-2 fw-bold">Get Email support</a>
           </div>
         </div>
       </div>
