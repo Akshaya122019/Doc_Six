@@ -21,7 +21,7 @@
               <a target="_blank" href="https://x.com/PhDGuiden"><i class="fab fa-x-twitter"></i></a>
             </li>
             <li class="me-3 d-flex justify-content-center align-items-center">
-              <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
+              <a target="_blank" href="https://www.linkedin.com/in/docsix-phd-assistants-b35854449"><i class="fab fa-linkedin"></i></a>
             </li>
             <li class="me-3 d-flex justify-content-center align-items-center">
               <a target="_blank" href="https://www.instagram.com/docsixphdassistance?utm_source=qr&exln=ZW43dW1sYnA5YjRt"><i class="fab fa-instagram"></i></a>

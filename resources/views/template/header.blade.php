@@ -23,7 +23,7 @@
     <!-- ===== DESKTOP ONLY: full top row ===== -->
     <div class="container desktop-topbar">
         <div class="row">
-            <div class="col-md col-xl-5 d-flex align-items-center">
+            <div class="col-md col-xl-4 d-flex align-items-center">
                 <img src="{{ asset('images/docsix_logo.png') }}" alt="logo" height="50" width="70" class="mb-3">
             </div>
 
@@ -53,7 +53,7 @@
                         <a target="_blank" href="https://www.facebook.com/share/19gVojfxFh/" class="d-flex align-items-center justify-content-center"><i class="fab fa-facebook"></i></a>
                         <a target="_blank" href="https://x.com/PhDGuiden" class="d-flex align-items-center justify-content-center"><i class="fab fa-x-twitter"></i></a>
                         <a target="_blank" href="https://www.instagram.com/docsixphdassistance?utm_source=qr&exln=ZW43dW1sYnA5YjRt" class="d-flex align-items-center justify-content-center"><i class="fab fa-instagram"></i></a>
-                        <a target="_blank" href="#" class="d-flex align-items-center justify-content-center"><i class="fab fa-linkedin"></i></a>
+                        <a target="_blank" href="https://www.linkedin.com/in/docsix-phd-assistants-b35854449" class="d-flex align-items-center justify-content-center"><i class="fab fa-linkedin"></i></a>
                     </p>
                 </div>
             </div>
